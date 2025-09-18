@@ -1,3 +1,7 @@
+![Preview](./preview.webp)
+
+---
+
 # HTML Error Code Pages
 
 Koleksi halaman HTML untuk berbagai error code dan challenge page Cloudflare.  
@@ -35,6 +39,4 @@ Semua halaman dapat diakses langsung melalui **GitHub Pages** di
 | JavaScript Challenge eClinic (Under Attack) | [cloudflare-underattack.html](https://infi-arzarizky.github.io/infi-httpcode/eclinic/cloudflare-underattack.html) |
 
 ---
-
-![Preview](./preview.webp)
 
