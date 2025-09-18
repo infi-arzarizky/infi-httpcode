@@ -2,7 +2,7 @@
 
 Koleksi halaman HTML untuk berbagai error code dan challenge page Cloudflare.  
 Semua halaman dapat diakses langsung melalui **GitHub Pages** di  
-🔗 **https://arzarizky.github.io/infi-httpcode/**
+🔗 **https://infi-arzarizky.github.io/infi-httpcode/**
 
 ---
 
